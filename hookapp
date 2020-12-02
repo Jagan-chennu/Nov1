@@ -2,6 +2,7 @@ This is team lead merging your code in to main branch
 Hello this Jagan from Guntur commiting first line
 This jyoti working from cuttack committing first line
 
+<<<<<<< HEAD
 Hello, checking for git conflict when not pulled before pushing. Thus committing first line.
 Hello, this is Jagan, committing second line.
 
@@ -13,3 +14,7 @@ checking git fetch command second line
 
 checking git fetch command third line
 checking git diff command
+
+Hello checking git fetch command second line.
+
+checking merge command again
