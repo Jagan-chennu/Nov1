@@ -1,5 +1,6 @@
 This is team lead merging your code in to main branch
 Hello this Jagan from Guntur commiting first line
+<<<<<<< HEAD
 This jyoti working from cuttack committing first line
 
 <<<<<<< HEAD
@@ -24,3 +25,5 @@ final merge checking
 checking git rebase command
 
 checking git rebase for second time
+
+Hello, addind few more lines
